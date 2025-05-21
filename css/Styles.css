@@ -1,3 +1,6 @@
+body{
+  background-color: lightcyan;
+}
 h1 {
   color: #008080;
   text-align: center;
@@ -12,10 +15,9 @@ h2{
 ul{
   color: aliceblue;
 }
-
 #av{
   font-weight: 800;
-  background-image: url('234.jpg'); 
+  background-image: url('../images/Aventador.jpg'); 
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover; 
@@ -24,7 +26,7 @@ ul{
   padding: 20px;
 }
 #gt{
-  background-image: url('Bentley Con.jpg'); 
+  background-image: url('../images/Bentley Con.jpg'); 
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover; 
@@ -34,7 +36,7 @@ ul{
   font-weight: 800;
 }
 #sna{
-  background-image: url('McLaren Senna.jpg');
+  background-image: url('../images/McLaren Senna.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
